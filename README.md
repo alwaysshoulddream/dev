@@ -1,4 +1,3 @@
-dev
+development version
 ===
 
-dev
